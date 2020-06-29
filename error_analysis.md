@@ -1,5 +1,7 @@
 ## Numerical Analysis
 
+[Back](https://varunkodathala.github.io/Numerical_Methods/)
+
 **Error Analysis of Numerical Algorithms corresponding to solution of equation**
 
 Numerical errors arise from the use of approximations to represent exact mathematical operations and quantities. These include truncation errors, which result when approxima- tions are used to represent exact mathematical procedures, and round-off errors, which result when numbers having limited significant figures are used to represent exact numbers.
