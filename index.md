@@ -1,6 +1,16 @@
 ## Welcome to GitHub Pages
 
-https://us02web.zoom.us/webinar/register/WN_I_bE7YVWRvS8f1jc6ajxRA
+** This Page gives the insight of technical dimension of Numerical Analysis (Computational Methods) in the field of Mathematics and Engineering **
+
+_ Numerical Methods is extensively useful for any standardised mathematical and engineering applications_
+
+_ Examples: _
+
+- _ Solar Cell Analysis _
+- _ Air Dynamics _
+- _ PDE's solution in Image Processing _
+- _ Optimisation Problems _
+
 
 ### Markdown
 
