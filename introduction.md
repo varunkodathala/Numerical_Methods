@@ -23,3 +23,7 @@ _Examples:_
   - False Position Method
   - Secant Method
   - Newton Raphson Method
+  
+
+theme: jekyll-theme-cayman
+
