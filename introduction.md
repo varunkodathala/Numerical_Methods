@@ -74,29 +74,15 @@ For the equation:
 
 ![equation2](https://latex.codecogs.com/gif.latex?f%28x%29%20%3D%20x%5E2-x-12%20%3D%200)
 
-if x = 0
+| ![image](https://latex.codecogs.com/gif.latex?x) | ![image](https://latex.codecogs.com/gif.latex?f%28x%29)|
+| --- | --- |
+| ![image](https://latex.codecogs.com/gif.latex?0) | ![equation11](https://latex.codecogs.com/gif.latex?f%280%29%20%3D%20-12) |
+| ![image](https://latex.codecogs.com/gif.latex?1) | ![equation12](https://latex.codecogs.com/gif.latex?f%281%29%20%3D%20-12) |
+| ![image](https://latex.codecogs.com/gif.latex?2) | ![equation13](https://latex.codecogs.com/gif.latex?f%282%29%20%3D%20-10) |
+| ![image](https://latex.codecogs.com/gif.latex?3) | ![equation14](https://latex.codecogs.com/gif.latex?f%283%29%20%3D%20-6) |
+| ![image](https://latex.codecogs.com/gif.latex?4) | ![equation15](https://latex.codecogs.com/gif.latex?f%284%29%20%3D%200) |
+| ![image](https://latex.codecogs.com/gif.latex?5) | ![equation14](https://latex.codecogs.com/gif.latex?f%285%29%20%3D%208) |
 
-![equation11](https://latex.codecogs.com/gif.latex?f%280%29%20%3D%20-12)
-
-if x = 1
-
-![equation12](https://latex.codecogs.com/gif.latex?f%281%29%20%3D%20-12)
-
-if x = 2
-
-![equation13](https://latex.codecogs.com/gif.latex?f%282%29%20%3D%20-10)
-
-if x = 3
-
-![equation14](https://latex.codecogs.com/gif.latex?f%282%29%20%3D%20-6)
-
-if x = 4
-
-![equation15](https://latex.codecogs.com/gif.latex?f%282%29%20%3D%200)
-
-if x = 5
-
-![equation16](https://latex.codecogs.com/gif.latex?f%282%29%20%3D%208)
 
 Therefore (a,b) = (3,5) and root lies between this range. 
 One can note that at x = 4 there is one zero of equation. In this example the root is real integer and hence f(x) = 0 at x = 4. But it varies with different equations, Let's infer with the programming. 
