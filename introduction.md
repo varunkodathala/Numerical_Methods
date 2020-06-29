@@ -177,5 +177,5 @@ print(range_of_equation())
 ```
 ## Python Demo
 
-![image](python_range.mov)
+![image](python_range.gif)
 
