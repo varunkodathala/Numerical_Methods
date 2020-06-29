@@ -132,6 +132,11 @@ end
 end
 ```
 
+## MATLAB DEMO
+
+![image](matlab_range.gif)
+
+
 ## PYTHON3 SCRIPT
 ```
 # Python3 Snippet to determine range of equation
@@ -170,4 +175,7 @@ def range_of_equation():
 print(range_of_equation())
 
 ```
+## Python Demo
+
+![image](python_range.mov)
 
