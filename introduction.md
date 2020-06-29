@@ -1,5 +1,7 @@
 ## Numerical Analysis
 
+[Back](https://varunkodathala.github.io/Numerical_Methods/)
+
 **Introduction to Solution of Algebraic and Transcedental Equations**
 
 During the computation of Scientific and Engineering Problems, a recursive problem is to find the zero's of equations of the form
