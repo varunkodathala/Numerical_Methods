@@ -18,7 +18,7 @@ _Examples:_
 
 1. Solution of Algebraic and Transcedental Equations
   
-  - [Introduction](https://varunkodathala.github.io/nm_easy.github.io/introduction)
+  - [Introduction](https://varunkodathala.github.io/Numerical_Methods/introduction)
   - [Bisection Method](bisection_method.md)
   - False Position Method
   - Secant Method
