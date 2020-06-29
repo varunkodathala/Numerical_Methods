@@ -23,3 +23,7 @@ _Examples:_
   - False Position Method
   - Secant Method
   - Newton Raphson Method
+  
+## About
+
+[SAI VARUN KODATHALA PROFILE](https://varunkodathala.github.io/Numerical_Methods/aboutme)
