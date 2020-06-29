@@ -19,7 +19,7 @@ _Examples:_
 1. Solution of Algebraic and Transcedental Equations
   
   - [Introduction](https://varunkodathala.github.io/Numerical_Methods/introduction)
-  - [Bisection Method](bisection_method.md)
+  - [Bisection Method](https://varunkodathala.github.io/Numerical_Methods/introduction/bisection_method)
   - False Position Method
   - Secant Method
   - Newton Raphson Method
