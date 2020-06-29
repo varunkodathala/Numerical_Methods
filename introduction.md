@@ -135,5 +135,39 @@ end
 ## PYTHON3 SCRIPT
 ```
 # Python3 Snippet to determine range of equation
+
+def f(x):
+    
+    return 11*x**11 - 1 #update corresponding equation here
+
+def range_of_equation():
+    
+    min_range = 0
+    max_range = 0
+    k = 0
+    if(f(k)!=0):
+        if(f(k)<0):
+            while(f(k)<0):
+                min_range = k
+                k = k+1
+        while(1):
+            if(f(k)>0):
+                max_range = k
+                k = k+1
+                break
+        k = 0
+        if(f(k)>0):
+            while(f(k)>0):
+                min_range = k
+                k = k+1
+            while(1):
+                if(f(k)<0):
+                    max_range = k
+                    k = k+1
+                    break
+    return min_range,max_range
+
+print(range_of_equation())
+
 ```
 
