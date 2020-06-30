@@ -128,4 +128,35 @@ t = table(i,root,er)
 
 ```
 # Python3 Script for Bisection Method
+
+
+def f(x):
+    
+    return x**2 - x - 2
+
+min_range = 1
+max_range = 4
+root = []
+er = []
+n =0 
+er.append(100)
+while(1):
+    root.append((min_range+max_range)/2)
+    if(f(root[n])<0):
+            min_range = root[n]
+    if(f(root[n])>0):
+            max_range = root[n]
+    
+    if n>0:
+        p = root[n]
+        q = root[n-1]
+        er.append(abs((p - q)/p)*100)
+        print('Percentage Error is ')
+        print(er[n])
+        if(er[n]<(1/10**(4-1))):
+            print(root[n])
+            print(n+1)
+            break
+    n=n+1;
+
 ```
