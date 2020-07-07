@@ -10,7 +10,7 @@ Generic Formula is given by:
 
 <p align = "center">
 
-<img src = https://latex.codecogs.com/gif.latex?r%20%3D%20%5Cfrac%7Ba*f%28b%29%20-%20b*f%28a%29%7D%7Bf%28b%29%20-%20f%28a%29%7D />
+<img src = "https://latex.codecogs.com/gif.latex?r%20%3D%20%5Cfrac%7Ba*f%28b%29%20-%20b*f%28a%29%7D%7Bf%28b%29%20-%20f%28a%29%7D" />
 
 </p>
 
