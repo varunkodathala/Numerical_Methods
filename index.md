@@ -21,7 +21,7 @@ _Examples:_
   - [Introduction](https://varunkodathala.github.io/Numerical_Methods/introduction)
   - [Error Analysis](https://varunkodathala.github.io/Numerical_Methods/error_analysis)
   - [Bisection Method](https://varunkodathala.github.io/Numerical_Methods/bisection_method)
-  - False Position Method
+  - [False Position Method](https://varunkodathala.github.io/Numerical_Methods/falseposition)
   - Secant Method
   - Newton Raphson Method
   
