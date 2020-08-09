@@ -179,3 +179,6 @@ print(range_of_equation())
 
 ![image](python_range.gif)
 
+## Online Compiler
+
+<script src="https://ideone.com/" type="text/javascript" ></script>
