@@ -8,6 +8,10 @@
 
 **_"According to Math Dictionary: a secant of a curve is a line that intersects the curve at a minimum of two distinct points"_** 
 
+<p align = "center">
+<img src="https://i.stack.imgur.com/q5T7w.png" />
+</p>
+
 So let (a,b) be the range of given equation then the successive root (here root refers to bisection of range) is given by:
 
 <p align = "center">
