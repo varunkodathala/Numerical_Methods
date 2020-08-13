@@ -78,7 +78,7 @@ Range Obtained from the [previous understanding](https://varunkodathala.github.i
 
 Root Analysis:
 
-![image](equation_secant_table.jpg)
+![image](equation_secant_table.jpeg)
 
 **Snippets that support MATLAB/ OCTAVE and Python3**
 
