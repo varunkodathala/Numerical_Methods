@@ -15,7 +15,7 @@
 So let (a,b) be the range of given equation then the successive root (here root refers to bisection of range) is given by:
 
 <p align = "center">
-<img src="https://latex.codecogs.com/gif.latex?r%20%3D%20%5Cfrac%7Ba&plus;b%7D%7B2%7D" />
+<img src="https://latex.codecogs.com/gif.latex?x_%7Bn&plus;1%7D%20%3D%20x_%7Bn%7D%20-%20f%28x_%7Bn%7D%29*%7B%5Cfrac%7B%28x_%7Bn%7D-x_%7Bn-1%7D%29%7D%7Bf%28x_%7Bn%7D%29-f%28x_%7Bn-1%7D%29%7D%7D" />
 </p>
 
 ## How Bisection is useful in root optimisation?
@@ -31,7 +31,7 @@ Try to Visualize few points from the graph below
 General Formula is given by:
 
 <p align = "center">
-<img src="https://latex.codecogs.com/gif.latex?r%20%3D%20%5Cfrac%7Ba&plus;b%7D%7B2%7D" />
+<img src="https://latex.codecogs.com/gif.latex?x_%7Bn&plus;1%7D%20%3D%20x_%7Bn%7D%20-%20f%28x_%7Bn%7D%29*%7B%5Cfrac%7B%28x_%7Bn%7D-x_%7Bn-1%7D%29%7D%7Bf%28x_%7Bn%7D%29-f%28x_%7Bn-1%7D%29%7D%7D" />
 </p>
 
 Where (a,b) should be updated iteratively according to the algorithm given below:
