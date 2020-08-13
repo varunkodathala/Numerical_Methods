@@ -12,7 +12,7 @@
 <img src="https://i.stack.imgur.com/q5T7w.png" />
 </p>
 
-So let (a,b) be the range of given equation then the successive root (here root refers to bisection of range) is given by:
+So let (a,b) be the range of given equation then the successive root is given by:
 
 <p align = "center">
 <img src="https://latex.codecogs.com/gif.latex?x_%7Bn&plus;1%7D%20%3D%20x_%7Bn%7D%20-%20f%28x_%7Bn%7D%29*%7B%5Cfrac%7B%28x_%7Bn%7D-x_%7Bn-1%7D%29%7D%7Bf%28x_%7Bn%7D%29-f%28x_%7Bn-1%7D%29%7D%7D" />
@@ -47,28 +47,22 @@ The descriptive algorithm is as follows:
 
 4. repeat
   {
-    compute root r = {(a+b)/2}
-    check if f(r) >0 :
-       set b = r
-    else:
-       set a = r
+    compute root r according to formula
   }
 ```
 
 ## General Description:
 
-1. The zero of a curve always exist between the points where the curve tends to negative and positive respectively. 
+1. The zero of a curve may (mostly) exist on the secant line joining the two distinct points of curve. 
 
-2. So, the bisection methods determines the mid point of the end points described above. The root may lie in the left half else in the right half that is estimated using the algorithm discussed above.
+2. So, the secant methods determines the point of secant line intersecting the x-axis as described above. 
 
-3. Again we have two points and the root lie between these two points and hence bisection method should be applied again to get another range.
-
-4. This process is repeated likewise till the iterations we match or from the [error analysis](https://varunkodathala.github.io/Numerical_Methods/error_analysis).
+3. This process is repeated likewise till the iterations we match or from the [error analysis](https://varunkodathala.github.io/Numerical_Methods/error_analysis).
 
 ## Graphical Intution:
 
 <p align = "center">
-<img src="https://www.researchgate.net/profile/Mir_Md_Moheuddin/publication/336638575/figure/fig2/AS:815189725286401@1571367784538/Bisection-method-This-Bisection-method-states-that-if-fx-is-continuous-which-is-defined.ppm" />
+<img src="https://hplgit.github.io/Programming-for-Computations/pub/p4c/figs/fig4_6.png" />
 </p>
 
 ## Root Analysis through Iterations
