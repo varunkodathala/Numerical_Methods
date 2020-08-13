@@ -10,16 +10,15 @@ Hello!!, This is **Sai Varun Kodathala** and I am an EC undergraduate student (F
 
 **Current Position:** 
 
-Computer Vision and AI intern at [Orbitshifters Inc (United States)](https://www.orbitshifters.com)
+Computer Vision and Artificial Intelligence **R&D** intern at [Orbitshifters Inc (United States)](https://www.orbitshifters.com)
 
 **Research Interests:**
 
-1. Computer Vision and Image Processing
-2. AI, ML and DL
-3. Numerical Methods
-4. Signal Processing
+1. Signal and Image Processing
+2. Machine Learning and Deep Learning
+3. **Numerical Analysis**
 
-## You can Contact me via
+## You can contact me via
 
 1. [LinkedIN](https://www.linkedin.com/in/varun-kodathala/)
 2. [ResearchGate](https://www.researchgate.net/profile/Sai_Kodathala)
