@@ -47,7 +47,7 @@ The descriptive algorithm is as follows:
 ## Graphical Intution:
 
 <p align = "center">
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/newtonRaphsonMethod.jpeg" />
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/newtonRaphsonMethod.png" />
 </p>
 
 ## Root Analysis through Iterations
