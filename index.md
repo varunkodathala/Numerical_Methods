@@ -22,10 +22,10 @@ _Examples:_
   - [Error Analysis](https://varunkodathala.github.io/Numerical_Methods/error_analysis)
   - [Bisection Method](https://varunkodathala.github.io/Numerical_Methods/bisection_method)
   - [False Position Method](https://varunkodathala.github.io/Numerical_Methods/falseposition)
-  - Secant Method
-  - Newton Raphson Method
+  - [Secant Method](https://varunkodathala.github.io/Numerical_Methods/secant)
+  - [Newton Raphson Method](https://varunkodathala.github.io/Numerical_Methods/newtonraphson)
   
-## Reference
+## References
 
 1. [Introductory Methods of Numerical Analysis by S.S. Sastry](https://books.google.com/books?id=y88tGx22FzAC&printsec=copyright)
 
