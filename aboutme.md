@@ -24,20 +24,3 @@ Computer Vision and AI intern at [Orbitshifters Inc (United States)](https://www
 1. [LinkedIN](https://www.linkedin.com/in/varun-kodathala/)
 2. [ResearchGate](https://www.researchgate.net/profile/Sai_Kodathala)
 3. **EMAIL_ID** - _**kodathalasaivarun@gmail.com**_
-
-## Feedback on Work!!
-
-<form action="https://formspree.io/maypkljw" method="POST">
-<input type="hidden" name="_subject" value="Contact request from personal website" />
-        <p align = "center">EMAIL ID: </p>
-<input type="email" name="_replyto" placeholder="Your email" required>
-        <br>
-        <br>
-        <p align = "center">MESSAGE: </p>
-<textarea name="message" placeholder="Type your message" required></textarea>
-        <br>
-        <br>
-        <p align = "center"> <button type="submit">SUBMIT</button> </p>
-        <br>
-</form>
-  
