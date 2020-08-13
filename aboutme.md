@@ -5,7 +5,7 @@
 Hello!!, This is **Sai Varun Kodathala** and I am an EC undergraduate student (Final Year) in **GITAM, Benagaluru**. 
 
 <p align = "center">
-<img src = "DP.jpg" width="592" height = "789" /> 
+<img src = "DP.jpg" width="192" height = "255" /> 
 </p>
 
 **Current Position:** 
