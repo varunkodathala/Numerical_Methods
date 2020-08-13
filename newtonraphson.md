@@ -63,7 +63,7 @@ Range Obtained from the [previous understanding](https://varunkodathala.github.i
 
 Root Analysis:
 
-![image](equation_newton_raphson_table.png)
+![image](equation_newton_raphson_table.jpeg)
 
 **Snippets that support MATLAB/ OCTAVE and Python3**
 
