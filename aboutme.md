@@ -27,9 +27,22 @@ Computer Vision and AI intern at [Orbitshifters Inc (United States)](https://www
 
 ## Feedback on Work!!
 
-<form action="https://formspree.io/maypkljw" method="POST">
-  <input type="NAME" name="name">
-  <input type="EMAIL" name="_replyto">
-  <input type="SUBMIT" value="Send">
+
+<form
+  action="https://formspree.io/maypkljw"
+  method="POST"
+>
+  <label>
+    Your Name:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your Message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
 
