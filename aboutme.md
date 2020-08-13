@@ -36,11 +36,12 @@ Computer Vision and AI intern at [Orbitshifters Inc (United States)](https://www
     Your Name:
     <input type="text" name="_replyto">
   </label>
+  <br>
   <label>
     Your Message:
     <textarea name="message"></textarea>
   </label>
-
+  <br>
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
