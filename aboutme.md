@@ -29,15 +29,15 @@ Computer Vision and AI intern at [Orbitshifters Inc (United States)](https://www
 
 <form action="https://formspree.io/maypkljw" method="POST">
 <input type="hidden" name="_subject" value="Contact request from personal website" />
-**EMAIL ID: **
+        <p align = "center">EMAIL ID: </p>
 <input type="email" name="_replyto" placeholder="Your email" required>
         <br>
         <br>
-**MESSAGE: **
+        <p align = "center">MESSAGE: </p>
 <textarea name="message" placeholder="Type your message" required></textarea>
         <br>
         <br>
-<button type="submit">SUBMIT</button>
+        <p align = "center"> <button type="submit">SUBMIT</button> </p>
         <br>
 </form>
   
