@@ -10,7 +10,7 @@ Hello!!, This is **Sai Varun Kodathala** and I am an EC undergraduate student (F
 
 **Current Position:** 
 
-Computer Vision and Artificial Intelligence **R&D** intern at [Orbitshifters Inc (United States)](https://www.orbitshifters.com)
+**Computer Vision Engineer** at [Orbitshifters Inc (United States)](https://www.orbitshifters.com)
 
 **Research Interests:**
 
