@@ -8,10 +8,6 @@ Hello!!, This is **Sai Varun Kodathala** and I am an EC undergraduate student (F
 <img src = "DP.jpg" width="192" height = "255" /> 
 </p>
 
-**Current Position:** 
-
-**Computer Vision Engineer** at [Orbitshifters Inc (United States)](https://www.orbitshifters.com)
-
 **Research Interests:**
 
 1. Signal and Image Processing
