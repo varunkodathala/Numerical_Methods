@@ -31,7 +31,3 @@ _Examples:_
 
 2. [Numerical Methods for Engineers by Steven C. Chapra, Raymond P. Canale](https://books.google.com/books/about/Numerical_Methods_for_Engineers.html?id=jMwjngEACAAJ)
 
-
-## About
-
-[SAI VARUN KODATHALA PROFILE](https://varunkodathala.github.io/Numerical_Methods/aboutme)
